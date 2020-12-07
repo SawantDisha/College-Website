@@ -1,0 +1,304 @@
+body {
+  font-family: "Marko One";
+  text-align: center;
+}
+
+h1 {
+  font-family: "Marko One";
+  color: #ffffff;
+  font-weight: bolder;
+  padding: 20px;
+}
+
+h3 {
+  font-family: "Marko One";
+  color: #000000;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: "Marko One";
+  font-weight: bolder;
+  color: #ffffff;
+}
+
+h4 {
+  font-family: "Marko One";
+  color: #ffffff;
+  font-weight: bolder;
+  margin-left: 700px;
+}
+
+h5 {
+  width: 70%;
+  margin: 50px auto 60px auto;
+  font-family: "Marko One";
+  text-align: center;
+  font-weight: bolder;
+  font-size: 2rem;
+  background-color: #ef8172;
+  padding: 20px;
+}
+
+p {
+  font-family: "Marko One";
+  color: #000000;
+
+}
+
+/* Title Section */
+#title {
+  background-color: #ec5858;
+  text-align: center;
+}
+
+.titlep {
+  color: #ffffff;
+  font-size: 2rem;
+}
+
+.titlepp {
+  color: #ffffff;
+}
+
+.titlee {
+  background-color: #000000;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.skill-row {
+  width: 90%;
+  margin-top: 50px;
+  margin-right: 0px;
+  margin-left: 50px;
+  text-align: center;
+  line-height: 2;
+}
+
+.coding {
+  width: 40%;
+  float: left;
+  right: 50px;
+  margin-right: 50px;
+}
+
+.quote {
+  font-family: "Marko One";
+  padding: 30px 50px 10px 50px;
+  font-family: "Marko One";
+  color: #000000;
+  font-weight: bolder;
+  font-size: 3rem;
+}
+
+.quotee {
+  font-family: "Marko One";
+  padding: 10px 50px 50px 50px;
+  color: #000000;
+  font-weight: bolder;
+  font-size: 3rem;
+}
+}
+
+.menu-icon {
+  width: 30%;
+}
+
+.college-logo {
+  width: 6%;
+}
+
+.container-fluid {}
+
+/* Features Section */
+#features {
+  padding: 7% 15%;
+  padding-top: 100px;
+}
+
+#management {
+  padding: 7% 15%;
+  background-color: #ec5858;
+}
+
+.feature-box {
+  text-align: center;
+}
+
+.management-box {
+  text-align: center;
+}
+
+.icon {
+  color: #ec5858;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #b8de6f;
+}
+
+.mang {
+  width: 40%;
+  background-color: #ec5858;
+  margin-bottom: 1rem;
+}
+
+.h3mang {
+  color: #ffffff;
+}
+
+/* Pricing Section */
+#pricing {
+  padding: 100px;
+  background-color: #b8de6f;
+  text-align: center;
+}
+
+.section-heading {
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.apply{
+  font-family: "Marko One";
+  color: #ffffff;
+  font-weight: bolder;
+}
+/* Testimonial Section */
+#testimonials {
+padding-top: 5%;
+padding-bottom: 10%;
+padding-left: 10%;
+padding-right: 10%;
+
+  text-align: center;
+  background-color: #cad315;
+}
+
+.gallery {
+  width: 90%;
+}
+
+.galleryh2{
+  padding-bottom: 40px;
+  padding-top:0px;
+}
+
+#recru {
+  background-color: #efd9d1;
+  text-align: center;
+  padding-bottom: 3%
+}
+
+.recru {
+  padding-top: 70px;
+  padding-bottom: 50px;
+  color: #000000;
+}
+
+.press-logo {
+  width: 10%;
+  margin: 20px 20px 50px;
+}
+
+
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+
+/* Computer Science */
+.titleCS {
+  background-color: #cad315;
+  text-align: center;
+}
+
+.DM-image {
+  width: 25%
+}
+
+.pCS {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+/* Feedback Section  */
+.feedback{
+  background-color: #ef8172;
+}
+
+.feedback-row {
+  background-color: #b8de6f;
+  width: 70%;
+  margin: 10px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding: 20px;
+}
+
+.feedbackk-row {
+  background-color: #66BFBF;
+  width: 70%;
+  margin: 10px auto 100px auto;
+  text-align: right;
+  line-height: 2;
+  padding: 20px;
+}
+
+.feedbackimage {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.feedbackkimage {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.feedbacklink{
+  font-family: "Marko One";
+  color: #000000;
+  font-weight: bolder;
+padding: 20px;
+  background-color: #66BFBF;
+
+
+}
+
+
+/* Footer */
+.footer-link{
+  text-align: center;
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: #000000;
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+  text-decoration: none;
+}
+.copyright{
+  text-align: center;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
